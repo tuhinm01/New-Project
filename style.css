@@ -58,6 +58,11 @@ body {
     background-color: #6c63ff;
 }
 
+.links li a{
+    text-decoration: none;
+    color: #FFF;
+}
+
 .landing-page .info {
     width: 35%;
     float: left;
@@ -86,6 +91,11 @@ body {
     cursor: pointer;
     color: #FFF;
     background-color: #6c63ff;
+}
+
+.info a{
+    text-decoration: none;
+    color: #FFF;
 }
 
 .landing-page .image {
